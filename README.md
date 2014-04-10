@@ -7,7 +7,7 @@
 With [Meteorite](https://github.com/oortcloud/meteorite) installed:
 
 ```sh
-$ mrt add metrouicss2
+$ mrt add metro-ui2
 ```
 
 ## Usage
