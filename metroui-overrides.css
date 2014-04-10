@@ -1,0 +1,9 @@
+.metro .streamer .meter li {
+  background: url("/packages/metro-ui2/lib/images/meter-210.png") top left repeat-x;
+}
+
+@font-face {
+  font-family: 'iconFont';
+  src: url('/packages/metro-ui2/lib/fonts/iconFont.eot');
+  src: url('/packages/metro-ui2/lib/fonts/iconFont.eot?#iefix') format('embedded-opentype'), url('/packages/metro-ui2/lib/fonts/iconFont.woff') format('woff'), url('/packages/metro-ui2/lib/fonts/iconFont.ttf') format('truetype'), url('/packages/metro-ui2/lib/fonts/iconFont.svg#iconFont') format('svg');
+}

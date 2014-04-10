@@ -1,0 +1,9 @@
+{
+  "name": "metro-ui2",
+  "description": "Metro UI CSS 2.x packaged for Meteor",
+  "homepage": "https://github.com/chrismbeckett/meteor-metro-ui2",
+  "author": "Chris Beckett (https://github.com/chrismbeckett)",
+  "version": "0.1.0",
+  "git": "https://github.com/chrismbeckett/meteor-metro-ui2.git",
+  "packages": {}
+}
