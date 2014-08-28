@@ -2,7 +2,7 @@
 
 [Metro UI CSS 2](http://metroui.org.ua/) packaged for [MeteorJS](http://meteor.com).
 
-## Change History
+## History
 
 ### v4.2.0
 

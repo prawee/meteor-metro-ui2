@@ -1,6 +1,4 @@
-# Change History
-
-## Releases
+## History
 
 ### v2.0.32
 * Updated for Meteor 0.9.0 Unipackage system.
