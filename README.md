@@ -4,7 +4,7 @@
 
 ## History
 
-### v4.2.0
+### v2.0.32
 
 * Updated for Meteor 0.9.0 Unipackage system.
 * Synchronized package version with Metro UI CSS version.
