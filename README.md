@@ -1,14 +1,16 @@
 # metro-ui2
 
-[Metro UI CSS 2](http://metroui.org.ua/) packaged for [Meteor](http://meteor.com).
+[Metro UI CSS 2](http://metroui.org.ua/) packaged for [MeteorJS](http://meteor.com).
 
-## Installation
+## Change History
 
-With [Meteorite](https://github.com/oortcloud/meteorite) installed:
+### v4.2.0
 
-```sh
-$ mrt add metro-ui2
-```
+* Updated for Meteor 0.9.0 Unipackage system.
+* Synchronized package version with Metro UI CSS version.
+* Updated for [Metro UI CSS](https://github.com/olton/Metro-UI-CSS) v2.0.32.
+
+See [History](history.md) for more information on prior releases.
 
 ## Usage
 
@@ -19,7 +21,7 @@ your markup in an outer DIV tag with the appropriate class tag (see below).
 ```
 <body>
   <div class="metro">
-      {{> template}}    
+      {{> template}}
   </div>
 </body>
 ```
@@ -84,3 +86,7 @@ source file included in the Metro UI download.
 - $.Metro.initPulls(area);
 - $.Metro.initPanels(area);
 - $.Metro.initTileTransform(area);
+
+## License
+
+[The MIT License (MIT)](license.md)
