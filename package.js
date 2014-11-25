@@ -1,6 +1,7 @@
 Package.describe({
+  "name": "chrismbeckett:metro-ui2",
   "summary": "Metro UI CSS 2.x packaged for MeteorJS",
-  "version": "2.0.32_2",
+  "version": "2.0.32_3",
   "git": "https://github.com/chrismbeckett/meteor-metro-ui2.git"
 });
 

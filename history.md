@@ -1,5 +1,8 @@
 # History
 
+## v2.0.32_3
+* Added missing package name required for publishing with namespace.
+
 ## v2.0.32_2
 * Release tagging issue - republish.
 
