@@ -2,15 +2,9 @@
 
 [Metro UI CSS 2](http://metroui.org.ua/) packaged for [MeteorJS](http://meteor.com).
 
-## History
+## Current Version
 
-### v2.0.32
-
-* Updated for Meteor 0.9.0 Unipackage system.
-* Synchronized package version with Metro UI CSS version.
-* Updated for [Metro UI CSS](https://github.com/olton/Metro-UI-CSS) v2.0.32.
-
-See [History](history.md) for more information on prior releases.
+**v2.0.32_1**
 
 ## Usage
 

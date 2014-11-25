@@ -1,5 +1,10 @@
 ## History
 
+### v2.0.32_1
+* Updated for Meteor 1.0.
+* Fixed to support updated Meteor packaging namespace support.
+
+
 ### v2.0.32
 * Updated for Meteor 0.9.0 Unipackage system.
 * Synchronized package version with Metro UI CSS version.

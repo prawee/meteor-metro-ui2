@@ -1,12 +1,12 @@
 Package.describe({
   "summary": "Metro UI CSS 2.x packaged for MeteorJS",
-  "version": "2.0.32",
+  "version": "2.0.32_1",
   "git": "https://github.com/chrismbeckett/meteor-metro-ui2.git"
 });
 
 Package.onUse(function (api) {
 
-  api.versionsFrom("METEOR@0.9.0");
+  api.versionsFrom("METEOR@0.9.4");
   api.use("jquery","client");
 
   api.addFiles("lib/fonts/iconFont.dev.svg", "client");
