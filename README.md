@@ -4,7 +4,7 @@
 
 ## Current Version
 
-**v2.0.32_1**
+**v2.0.32_2**
 
 ## Usage
 
